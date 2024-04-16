@@ -23,12 +23,10 @@
   ],
   "submissions-1": [
     {
-      "id": 1,
       "name": "Ich",
       "count": 5
     },
     {
-      "id": 2,
       "name": "Du",
       "count": 17
     },
@@ -40,7 +38,6 @@
   ],
   "submissions-2": [
     {
-      "id": 1,
       "name": "So",
       "count": 100
     }
