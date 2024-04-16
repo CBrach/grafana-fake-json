@@ -1,22 +1,38 @@
-[
-  {
-    "id": 1,
-    "name": "Wer?"
-  },
-  {
-    "id": 2,
-    "name": "Wie?"
-  },
-  {
-    "id": 3,
-    "name": "Was?"
-  },
-  {
-    "id": 4,
-    "name": "Wieso?"
-  },
-  {
-    "id": 5,
-    "name": "Warum?"
-  }
-]
+{
+  "questions": [
+    {
+      "id": 1,
+      "name": "Ich",
+      "count": 5
+    },
+    {
+      "id": 2,
+      "name": "Du",
+      "count": 17
+    },
+    {
+      "id": 3,
+      "name": "Er",
+      "count": 8
+    }
+  ],
+  "submissions": [
+    [
+      {
+        "id": 1,
+        "name": "Ich",
+        "count": 5
+      },
+      {
+        "id": 2,
+        "name": "Du",
+        "count": 17
+      },
+      {
+        "id": 3,
+        "name": "Er",
+        "count": 8
+      }
+    ]
+  ]
+}
