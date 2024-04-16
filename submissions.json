@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Ich",
+    "count": 5
+  },
+  {
+    "id": 2,
+    "name": "Du",
+    "count": 17
+  },
+  {
+    "id": 3,
+    "name": "Er",
+    "count": 8
+  }
+]
