@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Wer?"
+  },
+  {
+    "id": 2,
+    "name": "Wie?"
+  },
+  {
+    "id": 3,
+    "name": "Was?"
+  },
+  {
+    "id": 4,
+    "name": "Wieso?"
+  },
+  {
+    "id": 5,
+    "name": "Warum?"
+  }
+]
